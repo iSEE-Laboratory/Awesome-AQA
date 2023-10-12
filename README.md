@@ -17,7 +17,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Skating-Mixer: Multimodal MLP for Scoring Figure Skating **(AAAI 2023)** [[Paper]](https://arxiv.org/pdf/2203.03990.pdf)
 
 ### 2022
-- Automatic Modelling for Interactive Action Assessment **(IJCV 2022)** [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01695-5)
+- Automatic Modelling for Interactive Action Assessment **(IJCV 2022)** [[Paper]](https://link.springer.com/article/10.1007/s11263-022-01695-5) [[Citations]](https://scholar.google.com/scholar?cites=2639298877441859541&as_sdt=2005&sciodt=0,5&hl=en)
 - 3D-Yoga: A 3D Yoga Dataset for Visual-based Hierarchical Sports Action Analysis **(ACCV 2022)** [[Paper]](https://openaccess.thecvf.com/content/ACCV2022/papers/Li_3D-Yoga_A_3D_Yoga_Dataset_for_Visual-based_Hierarchical_Sports_Action_ACCV_2022_paper.pdf)
 - Hand Hygiene Assessment via Joint Step Segmentation and Key Action Scorer **(ArXiv 2022)**  [[Paper]](https://arxiv.org/pdf/2209.12221)
 - Action Quality Assessment with Temporal Parsing Transformer **(ECCV 2022)**  [[Paper]](https://arxiv.org/pdf/2207.09270)  [[Code]](https://github.com/baiyang4/aqa_tpt) [[Citations]](https://scholar.google.com/scholar?cites=3265520373943129836&as_sdt=2005&sciodt=0,5&hl=en)
@@ -68,11 +68,14 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
 ### Mistake Detection
+- Weakly-Supervised Action Segmentation and Unseen Error Detection in Anomalous Instructional Videos **(ICCV 23)** [[Project]](https://usa.honda-ri.com/ata) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ghoddoosian_Weakly-Supervised_Action_Segmentation_and_Unseen_Error_Detection_in_Anomalous_Instructional_ICCV_2023_paper.html) 
+- HoloAssist: an Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World **(ICCV 23)** [[Project]](https://holoassist.github.io) [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_HoloAssist_an_Egocentric_Human_Interaction_Dataset_for_Interactive_AI_Assistants_ICCV_2023_paper.html) [[Citations]](https://scholar.google.com/scholar?cites=1935067381543829055&as_sdt=2005&sciodt=0,5&hl=en) [[Citations]](https://scholar.google.com/scholar?cites=1935067381543829055&as_sdt=2005&sciodt=0,5&hl=en)
 - Put on your detective hat: What's wrong in this video? **(ICMLW 23)** [[Project]](https://error-dataset.github.io/ErrorDataset/index.html) [[Paper]](https://dmlr.ai/assets/accepted-papers/136/CameraReady/DMLR_ICML_2023_1.pdf)
 - Every Mistake Counts in Assembly **(ArXiv 2023)** [[Paper]](https://arxiv.org/abs/2307.16453) [[Code]](https://github.com/assembly-101/assembly101-mistake-detection)
 
+
 ### Adverb Recognition
-- Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)** [[Paper]](https://arxiv.org/pdf/2303.15086.pdf) [[Code]](https://github.com/dmoltisanti/air-cvpr23)
+- Learning Action Changes by Measuring Verb-Adverb Textual Relationships **(CVPR 2023)** [[Paper]](https://arxiv.org/pdf/2303.15086.pdf) [[Code]](https://github.com/dmoltisanti/air-cvpr23) [[Citations]](https://scholar.google.com/scholar?cites=50297929267165770&as_sdt=2005&sciodt=0,5&hl=en)
 
 
 
