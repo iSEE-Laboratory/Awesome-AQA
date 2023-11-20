@@ -9,6 +9,8 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2023
+- PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment **(ArXiv 2023)** [[Paper]](https://arxiv.org/pdf/2311.07603.pdf) [[Code]](https://github.com/Plrbear/PECoP)
+- Learning Semantics-Guided Representations for Scoring Figure Skating **(TMM 2023)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301591)
 - CPR-Coach: Recognizing Composite Error Actions based on Single-class Training **(ArXiv 2023)** [[Paper]](https://arxiv.org/pdf/2309.11718.pdf)
 - A Figure Skating Jumping Dataset for Replay-Guided Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613774)
 - Localization-assisted Uncertainty Score Disentanglement Network for Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613795) [[Code]](https://github.com/yanliji/FineFS-dataset)
@@ -72,6 +74,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
 ### Mistake Detection
+- IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting **(ArXiv 2023)** [[Paper]](https://arxiv.org/pdf/2310.17323.pdf) [[Code]](https://github.com/TimSchoonbeek/IndustReal)
 - Weakly-Supervised Action Segmentation and Unseen Error Detection in Anomalous Instructional Videos **(ICCV 2023)** [[Project]](https://usa.honda-ri.com/ata) [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Ghoddoosian_Weakly-Supervised_Action_Segmentation_and_Unseen_Error_Detection_in_Anomalous_Instructional_ICCV_2023_paper.html) 
 - HoloAssist: an Egocentric Human Interaction Dataset for Interactive AI Assistants in the Real World **(ICCV 2023)** [[Project]](https://holoassist.github.io) [[Paper]](http://openaccess.thecvf.com/content/ICCV2023/html/Wang_HoloAssist_an_Egocentric_Human_Interaction_Dataset_for_Interactive_AI_Assistants_ICCV_2023_paper.html) [[Citations]](https://scholar.google.com/scholar?cites=1935067381543829055&as_sdt=2005&sciodt=0,5&hl=en) [[Citations]](https://scholar.google.com/scholar?cites=1935067381543829055&as_sdt=2005&sciodt=0,5&hl=en)
 - Put on your detective hat: What's wrong in this video? **(ICMLW 2023)** [[Project]](https://error-dataset.github.io/ErrorDataset/index.html) [[Paper]](https://dmlr.ai/assets/accepted-papers/136/CameraReady/DMLR_ICML_2023_1.pdf)
