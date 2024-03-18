@@ -9,13 +9,15 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Coming soon]]
+- FineParser: A Fine-grained Spatio-temporal Action Parser for Human-centric Action Quality Assessment **(CVPR 2024)** [[Coming soon]]
+- CPR-Coach: Recognizing Composite Error Actions based on Single-class Training **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2309.11718.pdf)
 - Multimodal Action Quality Assessment **(TIP 2024)** [[Paper]](https://arxiv.org/abs/2402.09444) [[Code]](https://github.com/qinghuannn/PAMFN)
 
 ### 2023
 - Fine-Grained Spatio-Temporal Parsing Network for Action Quality Assessment **(TIP 2023)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10317826)
 - PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment **(WACV 2023 Oral)** [[Paper]](https://arxiv.org/pdf/2311.07603.pdf) [[Code]](https://github.com/Plrbear/PECoP)
 - Learning Semantics-Guided Representations for Scoring Figure Skating **(TMM 2023)** [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10301591)
-- CPR-Coach: Recognizing Composite Error Actions based on Single-class Training **(ArXiv 2023)** [[Paper]](https://arxiv.org/pdf/2309.11718.pdf)
 - A Figure Skating Jumping Dataset for Replay-Guided Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613774)
 - Localization-assisted Uncertainty Score Disentanglement Network for Action Quality Assessment **(ACM-MM 2023)** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613795) [[Code]](https://github.com/yanliji/FineFS-dataset)
 - Continual Action Assessment via Task-Consistent Score-Discriminative Feature Distribution Modeling **(ArXiv 2023)** [[Paper]](https://arxiv.org/abs/2309.17105)
@@ -74,7 +76,8 @@ In this reprository, interetsting papers in AQA are collected to show the develo
  
 ## Similar tasks and Potential Datasets
 ### Datasets
-- Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(ArXiv 2023)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) [[Citations]](https://scholar.google.com/scholar?cites=6807725739327920288&as_sdt=2005&sciodt=0,5&hl=en)
+- Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(CVPR 2024)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) [[Citations]](https://scholar.google.com/scholar?cites=6807725739327920288&as_sdt=2005&sciodt=0,5&hl=en)
+- EgoBridge: A Dataset for Bridging Asynchronous First- and Third-Person View of Activities in Real World **(CVPR 2024)** [[Project]](https://egobridge.github.io)
 - FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Project]](https://andytang15.github.io/FLAG3D/) [[Paper]](https://arxiv.org/abs/2212.04638) [[Citations]](https://scholar.google.com/scholar?cites=13191913368764386186&as_sdt=2005&sciodt=0,5&hl=en)
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
