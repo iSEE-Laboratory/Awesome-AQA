@@ -14,11 +14,16 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - **More works start focusing on (online) error detection.**
     * [EgoPER(CVPR-24)](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html), [PREGO(CVPR-24)](https://arxiv.org/abs/2404.01933), [DTGL(ArXiv-24)](https://arxiv.org/abs/2406.01486)
 
+## 📈 Performance Tables
+Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various popular AQA benchmarks.
+
+
 ## Main Road
 ### Survey
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- RICA2: Rubric-Informed, Calibrated Assessment of Actions **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.02138) [[Project]](https://abrarmajeedi.github.io/rica2_aqa/) [[Code]](https://github.com/abrarmajeedi/rica2_aqa)
 - MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment **(ECCV 2024)** [[Paper]](arxiv.org/abs/2403.04398) [[Code]](https://github.com/ZhouKanglei/MAGR_CAQA)
 - Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2407.19675)
 - Procedure-Aware Action Quality Assessment: Datasets and Performance Evaluation **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02146-z) [[Code]](https://github.com/xujinglin/FineDiving)
@@ -98,6 +103,9 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - FLAG3D: A 3D Fitness Activity Dataset with Language Instruction **(CVPR 2023)** [[Project]](https://andytang15.github.io/FLAG3D/) [[Paper]](https://arxiv.org/abs/2212.04638) [[Citations]](https://scholar.google.com/scholar?cites=13191913368764386186&as_sdt=2005&sciodt=0,5&hl=en)
 - Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities **(CVPR 2022)** [[Project]](https://assembly-101.github.io) [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf) [[Code]](https://github.com/assembly-101?tab=repositories) [[Citations]](https://scholar.google.com/scholar?cites=16985062727042180828&as_sdt=2005&sciodt=0,5&hl=en)
 
+### Narrative Action Assessment
+- Narrative Action Evaluation with Prompt-Guided Multimodal Interaction **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.14471) [[Code]](https://github.com/shiyi-zh0408/NAE_CVPR2024)
+- Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.06189) [[Project]](https://orrzohar.github.io/projects/video-star/) [[Code]](https://github.com/orrzohar/Video-STaR)
 
 ### Mistake Detection
 - Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
