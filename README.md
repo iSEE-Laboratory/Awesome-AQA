@@ -7,7 +7,7 @@ In this reprository, interetsting papers in AQA are collected to show the develo
 - **A series of works focus on collecting new data to facilitate other branch of research in this field.**
     * Brand new datasets: [CPR-Coach(CVPR-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [Ego-Exo4D(CVPR-24)](https://ego-exo4d-data.org/paper/ego-exo4d.pdf), [EgoExoLearn(CVPR-24)](https://arxiv.org/pdf/2403.16182.pdf), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
     * Expand existing datasets: [FineDiving++(IJCV-24)](https://link.springer.com/article/10.1007/s11263-024-02146-z), [NAE(CVPR-24)](https://arxiv.org/abs/2404.14471), [FineParser(CVPR-24)](https://arxiv.org/pdf/2405.06887#pdfjs.action=download)
-- **A few works start focusing on interpretable action assessment.**
+- **A few works start focusing on interpretable action assessment (not just predict scores / paired rankings).**
     * [NS-AQA(CVPRW24)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.html), [EgoExo-Fitness(ECCV-24)](https://arxiv.org/abs/2406.08877)
 - **Two papers propose to address continual action assessment concurrently.**
     * [FSCAR-AGSG(TCSVT24)](https://arxiv.org/abs/2309.17105), [MAGR(ECCV-24)](arxiv.org/abs/2403.04398)
@@ -23,6 +23,7 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - A Survey of Video-based Action Quality Assessment **(INSAI 2022)**  [[Paper]](https://arxiv.org/pdf/2204.09271v1.pdf)
 
 ### 2024
+- Interpretable Long-term Action Quality Assessment **(BMVC 2024)** [[Paper]](https://arxiv.org/abs/2408.11687) [[Code]](https://github.com/dx199771/Interpretability-AQA)
 - RICA2: Rubric-Informed, Calibrated Assessment of Actions **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.02138) [[Project]](https://abrarmajeedi.github.io/rica2_aqa/) [[Code]](https://github.com/abrarmajeedi/rica2_aqa)
 - MAGR: Manifold-Aligned Graph Regularization for Continual Action Quality Assessment **(ECCV 2024)** [[Paper]](arxiv.org/abs/2403.04398) [[Code]](https://github.com/ZhouKanglei/MAGR_CAQA)
 - Semi-Supervised Teacher-Reference-Student Architecture for Action Quality Assessment **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2407.19675)
@@ -108,6 +109,7 @@ Check [Benchmarks.md](./Benchmarks.md) to get the performance tables on various 
 - Video-STaR: Self-Training Enables Video Instruction Tuning with Any Supervision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.06189) [[Project]](https://orrzohar.github.io/projects/video-star/) [[Code]](https://github.com/orrzohar/Video-STaR)
 
 ### Mistake Detection
+- Find the Assembly Mistakes: Error Segmentation for Industrial Applications **(ECCVW 2024)** [[Project]](https://timschoonbeek.github.io/error_seg) [[Code]](https://github.com/Dan-Leh/find-my-assembly-mistakes)
 - Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
 - Error Detection in Egocentric Procedural Task Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html) [[Code]](https://github.com/robert80203/EgoPER_official)
 - PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
